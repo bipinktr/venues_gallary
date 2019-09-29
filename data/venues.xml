@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<venues>
+  <venue>
+    <id>123</id>
+    <name>Atlantis The Palm</name>
+    <image>https://via.placeholder.com/250x250</image>
+    <discount_percentage>25</discount_percentage>
+  </venue>
+</venues>
